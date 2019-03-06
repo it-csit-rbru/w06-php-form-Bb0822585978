@@ -24,7 +24,7 @@
                         <option value="4">ภูมิสารสนเทศ</option>
                         <option value="5">คอมพิวเตอร์ศึกษา</option>
                     </select>
-                <label for="faculty">สาขาวิชา</label>
+                <label for="faculty">คณะ</label>
                     <select name="faculty">
                         <option value="1">วิทยาการคอมพิวเตอร์</option>
                         <option value="2">ครุศาสตร์</option>
